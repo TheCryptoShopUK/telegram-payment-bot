@@ -1,8 +1,5 @@
 # telegram-bot-tutorial
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ferdinandmuetsch/5)
-[![Say thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/n1try)
-
 Code of my video tutorial on how to create a basic **e-commerce** application as a **Telegram bot** with [**Payments**](https://telegram.org/blog/payments) using Node.js and the [telegraf](https://github.com/telegraf/telegraf) framework.
 
 ## Part 1
